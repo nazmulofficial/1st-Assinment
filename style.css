@@ -77,7 +77,6 @@ body {
    
 }
 
-/* ================= HEADER ================= */
 header {
     padding: 15px 0;
 }
@@ -102,7 +101,7 @@ nav .menu a {
     color: #000000;
 }
 
-/* ================= HERO ================= */
+
 .banner {
     position: relative;
     display: flex;
@@ -142,7 +141,9 @@ nav .menu a {
     margin-top: 16px;
 }
 
-/* ================= CARD SECTION ================= */
+
+
+
 #card {
     padding: 36px 0;
     max-width: 1360px;
@@ -207,7 +208,10 @@ nav .menu a {
     line-height: 1.5;
 }
 
-/* ================= BRAIN SECTION ================= */
+
+
+
+
 #brain {
     max-width: 1600px;
     margin: 0 auto;
@@ -265,12 +269,15 @@ nav .menu a {
     font-weight: bold;
 }
 
-/* CTA outer section */
+
+
+
 .cta {
     padding: 80px 40px;
 }
 
-/* CTA container */
+
+
 .cta-box {
     max-width: 1360px;
     margin: 0 auto;
@@ -280,14 +287,18 @@ nav .menu a {
     text-align: center;
 }
 
-/* Title */
+
+
+
 .cta-box h2 {
     font-size: 40px;
     font-weight:bold;
     margin-bottom: 16px;
 }
 
-/* Description */
+
+
+
 .cta-text {
     font-size: 16px;
     color: #627382;
@@ -295,7 +306,10 @@ nav .menu a {
     margin-bottom: 32px;
 }
 
-/* Button */
+
+
+
+
 .cta-btn {
     background-color: #30B868;
     color: #ffffff;
@@ -310,7 +324,10 @@ nav .menu a {
     background-color: #30B868;
 }
 
-/* Small note */
+
+
+
+
 .cta-note {
     margin-top: 16px;
     font-size: 14px;
@@ -322,7 +339,9 @@ nav .menu a {
     padding: 60px 120px 30px;
 }
 
-/* top row */
+
+
+
 .footer-top {
     max-width: 1600px;
     margin: 0 auto;
@@ -331,12 +350,12 @@ nav .menu a {
     align-items: center;
 }
 
-/* logo */
+
 .footer-logo img {
     height: 42px;
 }
 
-/* social section */
+
 .footer-social p {
     font-size: 14px;
     margin-bottom: 10px;
@@ -365,7 +384,7 @@ nav .menu a {
     border-color: #30B868;
 }
 
-/* divider */
+
 .footer-line {
     margin: 40px 0 20px;
     border: none;
@@ -373,7 +392,7 @@ nav .menu a {
     background: rgba(255,255,255,0.15);
 }
 
-/* copyright */
+
 .footer-copy {
     text-align: center;
     font-size: 13px;
